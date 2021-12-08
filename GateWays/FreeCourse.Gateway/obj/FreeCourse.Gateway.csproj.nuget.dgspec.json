@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\calismalar\\githupProjelerim\\lgwCase\\GateWays\\FreeCourse.Gateway\\FreeCourse.Gateway.csproj": {}
+  },
+  "projects": {
+    "D:\\calismalar\\githupProjelerim\\lgwCase\\GateWays\\FreeCourse.Gateway\\FreeCourse.Gateway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\calismalar\\githupProjelerim\\lgwCase\\GateWays\\FreeCourse.Gateway\\FreeCourse.Gateway.csproj",
+        "projectName": "FreeCourse.Gateway",
+        "projectPath": "D:\\calismalar\\githupProjelerim\\lgwCase\\GateWays\\FreeCourse.Gateway\\FreeCourse.Gateway.csproj",
+        "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
+        "outputPath": "D:\\calismalar\\githupProjelerim\\lgwCase\\GateWays\\FreeCourse.Gateway\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yildiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Ocelot": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

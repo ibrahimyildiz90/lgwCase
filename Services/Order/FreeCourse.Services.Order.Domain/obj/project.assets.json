@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v5.0": {
+      "FreeCourse.Services.Order.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v5.0",
+        "compile": {
+          "bin/placeholder/FreeCourse.Services.Order.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FreeCourse.Services.Order.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreeCourse.Services.Order.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../FreeCourse.Services.Order.Domain.Core/FreeCourse.Services.Order.Domain.Core.csproj",
+      "msbuildProject": "../FreeCourse.Services.Order.Domain.Core/FreeCourse.Services.Order.Domain.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0": [
+      "FreeCourse.Services.Order.Domain.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yildiz\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\calismalar\\githupProjelerim\\lgwCase\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj",
+      "projectName": "FreeCourse.Services.Order.Domain",
+      "projectPath": "D:\\calismalar\\githupProjelerim\\lgwCase\\Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj",
+      "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
+      "outputPath": "D:\\calismalar\\githupProjelerim\\lgwCase\\Services\\Order\\FreeCourse.Services.Order.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\yildiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net50"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net50": {
+          "projectReferences": {
+            "D:\\calismalar\\githupProjelerim\\lgwCase\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj": {
+              "projectPath": "D:\\calismalar\\githupProjelerim\\lgwCase\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net50": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
