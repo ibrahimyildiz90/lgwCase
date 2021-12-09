@@ -39,10 +39,7 @@ namespace LgwCase.Services.Product.API.Controllers
         [HttpPost]
         [Route("/api/[controller]/[action]")]
         public async Task<IActionResult> AddCategory(AddCategoryDto model)
-        {
-            //var dto = new AddCategoryDto();
-            //dto.Name = model.Name;
-            //dto.LimitQuantity = model.LimitQuantity;
+        {        
             return CreateActionResultInstance(await _productService.AddCategory(model));
         }
     }
