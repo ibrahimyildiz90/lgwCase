@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\calismalar\\githupProjelerim\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {}
+    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {}
   },
   "projects": {
-    "D:\\calismalar\\githupProjelerim\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\calismalar\\githupProjelerim\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+        "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
         "projectName": "FreeCourse.Shared",
-        "projectPath": "D:\\calismalar\\githupProjelerim\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
-        "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
-        "outputPath": "D:\\calismalar\\githupProjelerim\\lgwCase\\Shared\\FreeCourse.Shared\\obj\\",
+        "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+        "packagesPath": "C:\\Users\\3788882\\.nuget\\packages\\",
+        "outputPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yildiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\3788882\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,10 +26,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.jandarma.gov.tr/tfs/IBS_Yazilim_Surec_Yonetimi/_packaging/Juga_Repo@Local/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

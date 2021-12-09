@@ -1,0 +1,9 @@
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.deps.json
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfoInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfo.cs
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb

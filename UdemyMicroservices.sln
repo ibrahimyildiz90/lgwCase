@@ -57,7 +57,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.Web", "Frontends
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoStock", "PhotoStock", "{04DCF8C8-25F3-4655-921A-2079CDCC0B6F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.Services.PhotoStock", "Services\PhotoStock\FreeCourse.Services.PhotoStock\FreeCourse.Services.PhotoStock.csproj", "{0EB54104-E6E7-48E0-B254-6F9E4E5F046E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logiwa.Product.API", "Services\PhotoStock\FreeCourse.Services.PhotoStock\Logiwa.Product.API.csproj", "{0EB54104-E6E7-48E0-B254-6F9E4E5F046E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5982AB52-E021-4AB1-AA94-696DA379AD22}"
 	ProjectSection(SolutionItems) = preProject
@@ -155,67 +155,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C237DF81-601F-4599-9DB2-9770E5AD555C}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 15
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://ibrahimyildiz90.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj
-		SccProjectTopLevelParentUniqueName1 = UdemyMicroservices.sln
-		SccProjectName1 = Services/Catalog/FreeCourse.Services.Catalog
-		SccLocalPath1 = Services\\Catalog\\FreeCourse.Services.Catalog
-		SccProjectUniqueName2 = Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj
-		SccProjectTopLevelParentUniqueName2 = UdemyMicroservices.sln
-		SccProjectName2 = Shared/FreeCourse.Shared
-		SccLocalPath2 = Shared\\FreeCourse.Shared
-		SccProjectUniqueName3 = IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj
-		SccProjectTopLevelParentUniqueName3 = UdemyMicroservices.sln
-		SccProjectName3 = IdentityServer/FreeCourse.IdentityServer
-		SccLocalPath3 = IdentityServer\\FreeCourse.IdentityServer
-		SccProjectUniqueName4 = Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj
-		SccProjectTopLevelParentUniqueName4 = UdemyMicroservices.sln
-		SccProjectName4 = Services/Basket/FreeCourse.Services.Basket
-		SccLocalPath4 = Services\\Basket\\FreeCourse.Services.Basket
-		SccProjectUniqueName5 = Services\\Discount\\FreeCourse.Services.Discount\\FreeCourse.Services.Discount.csproj
-		SccProjectTopLevelParentUniqueName5 = UdemyMicroservices.sln
-		SccProjectName5 = Services/Discount/FreeCourse.Services.Discount
-		SccLocalPath5 = Services\\Discount\\FreeCourse.Services.Discount
-		SccProjectUniqueName6 = Services\\Order\\FreeCourse.Services.Order.API\\FreeCourse.Services.Order.API.csproj
-		SccProjectTopLevelParentUniqueName6 = UdemyMicroservices.sln
-		SccProjectName6 = Services/Order/FreeCourse.Services.Order.API
-		SccLocalPath6 = Services\\Order\\FreeCourse.Services.Order.API
-		SccProjectUniqueName7 = Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj
-		SccProjectTopLevelParentUniqueName7 = UdemyMicroservices.sln
-		SccProjectName7 = Services/Order/FreeCourse.Services.Order.Application
-		SccLocalPath7 = Services\\Order\\FreeCourse.Services.Order.Application
-		SccProjectUniqueName8 = Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj
-		SccProjectTopLevelParentUniqueName8 = UdemyMicroservices.sln
-		SccProjectName8 = Services/Order/FreeCourse.Services.Order.Domain
-		SccLocalPath8 = Services\\Order\\FreeCourse.Services.Order.Domain
-		SccProjectUniqueName9 = Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj
-		SccProjectTopLevelParentUniqueName9 = UdemyMicroservices.sln
-		SccProjectName9 = Services/Order/FreeCourse.Services.Order.Domain.Core
-		SccLocalPath9 = Services\\Order\\FreeCourse.Services.Order.Domain.Core
-		SccProjectUniqueName10 = Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj
-		SccProjectTopLevelParentUniqueName10 = UdemyMicroservices.sln
-		SccProjectName10 = Services/Order/FreeCourse.Services.Order.Infrastructure
-		SccLocalPath10 = Services\\Order\\FreeCourse.Services.Order.Infrastructure
-		SccProjectUniqueName11 = Services\\FakePayment\\FreeCourse.Services.FakePayment\\FreeCourse.Services.FakePayment.csproj
-		SccProjectTopLevelParentUniqueName11 = UdemyMicroservices.sln
-		SccProjectName11 = Services/FakePayment/FreeCourse.Services.FakePayment
-		SccLocalPath11 = Services\\FakePayment\\FreeCourse.Services.FakePayment
-		SccProjectUniqueName12 = GateWays\\FreeCourse.Gateway\\FreeCourse.Gateway.csproj
-		SccProjectTopLevelParentUniqueName12 = UdemyMicroservices.sln
-		SccProjectName12 = GateWays/FreeCourse.Gateway
-		SccLocalPath12 = GateWays\\FreeCourse.Gateway
-		SccProjectUniqueName13 = Frontends\\FreeCourse.Web\\FreeCourse.Web.csproj
-		SccProjectTopLevelParentUniqueName13 = UdemyMicroservices.sln
-		SccProjectName13 = Frontends/FreeCourse.Web
-		SccLocalPath13 = Frontends\\FreeCourse.Web
-		SccProjectUniqueName14 = Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\FreeCourse.Services.PhotoStock.csproj
-		SccProjectTopLevelParentUniqueName14 = UdemyMicroservices.sln
-		SccProjectName14 = Services/PhotoStock/FreeCourse.Services.PhotoStock
-		SccLocalPath14 = Services\\PhotoStock\\FreeCourse.Services.PhotoStock
 	EndGlobalSection
 EndGlobal
