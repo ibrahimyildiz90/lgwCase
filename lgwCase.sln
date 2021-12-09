@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.Shared", "Shared
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{DE6A0D83-6898-4279-865D-BBA5C0111DF0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.IdentityServer", "IdentityServer\FreeCourse.IdentityServer\FreeCourse.IdentityServer.csproj", "{AEB6D119-E14F-4722-9B56-83F90F07BC7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.IdentityServer", "IdentityServer\LgwCase.IdentityServer\LgwCase.IdentityServer.csproj", "{AEB6D119-E14F-4722-9B56-83F90F07BC7F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Order", "Order", "{0E188BE2-9531-4FAB-8888-9075979C3672}"
 EndProject
