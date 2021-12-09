@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FreeCourse.Shared.Dtos
+namespace LgwCase.Shared.Dtos
 {
     public class NoContent
     {

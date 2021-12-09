@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FreeCourse.IdentityServer.Services
+namespace LgwCase.IdentityServer.Services
 {
     public class TokenExchangeExtensionValidator : IExtensionGrantValidator
     {

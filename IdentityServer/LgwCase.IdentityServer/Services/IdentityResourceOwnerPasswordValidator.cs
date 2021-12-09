@@ -1,11 +1,11 @@
-﻿using FreeCourse.IdentityServer.Models;
+﻿using LgwCase.IdentityServer.Models;
 using IdentityModel;
 using IdentityServer4.Validation;
 using Microsoft.AspNetCore.Identity;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace FreeCourse.IdentityServer.Services
+namespace LgwCase.IdentityServer.Services
 {
     public class IdentityResourceOwnerPasswordValidator : IResourceOwnerPasswordValidator
     {

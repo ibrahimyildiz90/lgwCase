@@ -39,8 +39,8 @@
               "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj": {
                 "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj"
               },
-              "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
-                "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
+              "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\LgwCase.Shared.csproj": {
+                "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\LgwCase.Shared.csproj"
               }
             }
           }
@@ -287,12 +287,12 @@
         }
       }
     },
-    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\LgwCase.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
-        "projectName": "FreeCourse.Shared",
-        "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+        "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\LgwCase.Shared.csproj",
+        "projectName": "LgwCase.Shared",
+        "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\LgwCase.Shared.csproj",
         "packagesPath": "C:\\Users\\3788882\\.nuget\\packages\\",
         "outputPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\obj\\",
         "projectStyle": "PackageReference",

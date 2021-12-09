@@ -31,8 +31,8 @@
     ".NETCoreApp,Version=v3.1": {
       "LgwCase.IdentityServer/1.0.0": {
         "dependencies": {
-          "FreeCourse.Shared": "1.0.0",
           "IdentityServer4.AspNetIdentity": "4.0.0",
+          "LgwCase.Shared": "1.0.0",
           "Microsoft.AspNetCore.Authentication.Google": "3.1.5",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.5",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.5",
@@ -1963,12 +1963,12 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "FreeCourse.Shared/1.0.0": {
+      "LgwCase.Shared/1.0.0": {
         "runtime": {
-          "FreeCourse.Shared.dll": {}
+          "LgwCase.Shared.dll": {}
         },
         "compile": {
-          "FreeCourse.Shared.dll": {}
+          "LgwCase.Shared.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -4538,7 +4538,7 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "FreeCourse.Shared/1.0.0": {
+    "LgwCase.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

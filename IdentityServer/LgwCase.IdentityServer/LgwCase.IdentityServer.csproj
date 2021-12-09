@@ -30,6 +30,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Shared\FreeCourse.Shared\FreeCourse.Shared.csproj" />
+    <ProjectReference Include="..\..\Shared\LgwCase.Shared\LgwCase.Shared.csproj" />
   </ItemGroup>
 </Project>

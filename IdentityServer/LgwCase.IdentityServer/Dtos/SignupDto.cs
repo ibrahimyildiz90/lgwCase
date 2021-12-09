@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FreeCourse.IdentityServer.Dtos
+namespace LgwCase.IdentityServer.Dtos
 {
     public class SignupDto
     {

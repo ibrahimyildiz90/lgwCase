@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FreeCourse.Shared.Services
+namespace LgwCase.Shared.Dtos
 {
-    public interface ISharedIdentityService
+    public class ErrorDto
     {
-        public string GetUserId { get;}
+        public List<string> Errors { get; set; }
     }
 }

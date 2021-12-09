@@ -1548,14 +1548,14 @@
           "bin/placeholder/FreeCourse.Services.Order.Infrastructure.dll": {}
         }
       },
-      "FreeCourse.Shared/1.0.0": {
+      "LgwCase.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/FreeCourse.Shared.dll": {}
+          "bin/placeholder/LgwCase.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FreeCourse.Shared.dll": {}
+          "bin/placeholder/LgwCase.Shared.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -5854,10 +5854,10 @@
       "path": "../FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj",
       "msbuildProject": "../FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj"
     },
-    "FreeCourse.Shared/1.0.0": {
+    "LgwCase.Shared/1.0.0": {
       "type": "project",
-      "path": "../../../Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
-      "msbuildProject": "../../../Shared/FreeCourse.Shared/FreeCourse.Shared.csproj"
+      "path": "../../../Shared/FreeCourse.Shared/LgwCase.Shared.csproj",
+      "msbuildProject": "../../../Shared/FreeCourse.Shared/LgwCase.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5865,7 +5865,7 @@
       "AutoMapper >= 10.1.1",
       "FreeCourse.Services.Order.Domain >= 1.0.0",
       "FreeCourse.Services.Order.Infrastructure >= 1.0.0",
-      "FreeCourse.Shared >= 1.0.0",
+      "LgwCase.Shared >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0"
     ]
   },
@@ -5908,8 +5908,8 @@
             "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj": {
               "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj"
             },
-            "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
-              "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
+            "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\LgwCase.Shared.csproj": {
+              "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\LgwCase.Shared.csproj"
             }
           }
         }

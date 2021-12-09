@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using FreeCourse.IdentityServer.Models;
+using LgwCase.IdentityServer.Models;
 
-namespace FreeCourse.IdentityServer.Data
+namespace LgwCase.IdentityServer.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {

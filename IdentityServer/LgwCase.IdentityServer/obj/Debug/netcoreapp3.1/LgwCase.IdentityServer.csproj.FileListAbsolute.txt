@@ -95,8 +95,6 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\
 E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
-E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\obj\Debug\netcoreapp3.1\LgwCase.IdentityServer.csprojAssemblyReference.cache
 E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\obj\Debug\netcoreapp3.1\LgwCase.IdentityServer.AssemblyInfoInputs.cache
 E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\obj\Debug\netcoreapp3.1\LgwCase.IdentityServer.AssemblyInfo.cs
@@ -137,3 +135,5 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\
 E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\obj\Debug\netcoreapp3.1\LgwCase.IdentityServer.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\obj\Debug\netcoreapp3.1\LgwCase.IdentityServer.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\obj\Debug\netcoreapp3.1\LgwCase.IdentityServer.genruntimeconfig.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\bin\Debug\netcoreapp3.1\LgwCase.Shared.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\IdentityServer\LgwCase.IdentityServer\bin\Debug\netcoreapp3.1\LgwCase.Shared.pdb

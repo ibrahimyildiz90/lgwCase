@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace FreeCourse.IdentityServer.Migrations
+namespace LgwCase.IdentityServer.Migrations
 {
     public partial class initial : Migration
     {

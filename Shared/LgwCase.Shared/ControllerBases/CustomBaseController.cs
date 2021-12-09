@@ -1,4 +1,4 @@
-﻿using FreeCourse.Shared.Dtos;
+﻿using LgwCase.Shared.Dtos;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FreeCourse.Shared.ControllerBases
+namespace LgwCase.Shared.ControllerBases
 {
     public class CustomBaseController : ControllerBase
     {

@@ -3,8 +3,8 @@
 
 
 using IdentityServer4;
-using FreeCourse.IdentityServer.Data;
-using FreeCourse.IdentityServer.Models;
+using LgwCase.IdentityServer.Data;
+using LgwCase.IdentityServer.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
@@ -12,11 +12,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using FreeCourse.IdentityServer.Services;
+using LgwCase.IdentityServer.Services;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.AspNetCore.Http;
 
-namespace FreeCourse.IdentityServer
+namespace LgwCase.IdentityServer
 {
     public class Startup
     {

@@ -2064,14 +2064,14 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "FreeCourse.Shared/1.0.0": {
+      "LgwCase.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/FreeCourse.Shared.dll": {}
+          "bin/placeholder/LgwCase.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FreeCourse.Shared.dll": {}
+          "bin/placeholder/LgwCase.Shared.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -6862,16 +6862,16 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "FreeCourse.Shared/1.0.0": {
+    "LgwCase.Shared/1.0.0": {
       "type": "project",
-      "path": "../../Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
-      "msbuildProject": "../../Shared/FreeCourse.Shared/FreeCourse.Shared.csproj"
+      "path": "../../Shared/LgwCase.Shared/LgwCase.Shared.csproj",
+      "msbuildProject": "../../Shared/LgwCase.Shared/LgwCase.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "FreeCourse.Shared >= 1.0.0",
       "IdentityServer4.AspNetIdentity >= 4.0.0",
+      "LgwCase.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.Google >= 3.1.5",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.5",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.5",
@@ -6915,8 +6915,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
-              "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
+            "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
+              "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj"
             }
           }
         }

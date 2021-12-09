@@ -7,7 +7,7 @@ using IdentityServer4.Models;
 using System;
 using System.Collections.Generic;
 
-namespace FreeCourse.IdentityServer
+namespace LgwCase.IdentityServer
 {
     public static class Config
     {

@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{1B28D76D-D29B-42B2-9F3A-1E12C405D7EF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.Shared", "Shared\FreeCourse.Shared\FreeCourse.Shared.csproj", "{3CA50F6E-FCD8-4D12-B30C-1E7693B1F28F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.Shared", "Shared\LgwCase.Shared\LgwCase.Shared.csproj", "{3CA50F6E-FCD8-4D12-B30C-1E7693B1F28F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{DE6A0D83-6898-4279-865D-BBA5C0111DF0}"
 EndProject

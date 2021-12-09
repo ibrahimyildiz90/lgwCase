@@ -2,8 +2,8 @@
 // Licensed under the Apache License, Version 2.0. See LICENSE in the project root for license information.
 
 
-using FreeCourse.IdentityServer.Data;
-using FreeCourse.IdentityServer.Models;
+using LgwCase.IdentityServer.Data;
+using LgwCase.IdentityServer.Models;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -16,7 +16,7 @@ using Serilog.Sinks.SystemConsole.Themes;
 using System;
 using System.Linq;
 
-namespace FreeCourse.IdentityServer
+namespace LgwCase.IdentityServer
 {
     public class Program
     {

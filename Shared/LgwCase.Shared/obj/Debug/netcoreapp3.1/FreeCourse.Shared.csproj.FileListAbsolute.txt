@@ -6,4 +6,3 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\net
 E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
 E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
-E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csprojAssemblyReference.cache

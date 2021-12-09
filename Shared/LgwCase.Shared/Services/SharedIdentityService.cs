@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FreeCourse.Shared.Services
+namespace LgwCase.Shared.Services
 {
     public class SharedIdentityService : ISharedIdentityService
     {
