@@ -42,5 +42,12 @@ namespace LgwCase.Services.Product.API.Controllers
         {        
             return CreateActionResultInstance(await _productService.AddCategory(model));
         }
+
+        [HttpPost]
+        [Route("/api/[controller]/[action]")]
+        public async Task<IActionResult> AddProduct(AddProductDto model)
+        {
+            return CreateActionResultInstance(await _productService.AddProduct(model));
+        }
     }
 }

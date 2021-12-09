@@ -51,7 +51,7 @@ namespace LgwCase.Services.Product.Application.Services
             try
             {
                 if (min >= max)
-                    return Response<List<ProductDto>>.Fail("Max stock quantity must be greater than min stock quantity", 204);
+                    return Response<List<ProductDto>>.Fail("Max stock quantity must be greater than min stock quantity", 500);
 
                 using (var context = new LgwDbContex(Configuration))
                 {
@@ -81,7 +81,7 @@ namespace LgwCase.Services.Product.Application.Services
             {
                 if (String.IsNullOrEmpty(categoryDto.Name) || categoryDto.LimitQuantity <= 0)
                 {
-                    return Response<NoContent>.Fail("Check category name or limit quantity", 204);
+                    return Response<NoContent>.Fail("Check category name or limit quantity", 500);
                 }
 
                 var category = ObjectMapper.Mapper.Map<Category>(categoryDto);
@@ -98,13 +98,52 @@ namespace LgwCase.Services.Product.Application.Services
             {
                 return Response<NoContent>.Fail("unexpected error occurred ", 500);
             }
-        
-
         }
 
-        public async Task<Response<NoContent>> AddProduct(AddProductDto product)
+        public async Task<Response<NoContent>> AddProduct(AddProductDto productDto)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (String.IsNullOrEmpty(productDto.Title))
+                {
+                    return Response<NoContent>.Fail("Title cannot be emty", 500);
+                }
+                if (productDto.Title.Length > 200)
+                {
+                    return Response<NoContent>.Fail("Title must be maxium 200 character", 500);
+                }
+
+                if (productDto.CategoryId == null)
+                {
+                    return Response<NoContent>.Fail("Category cannot be emty", 500);
+                }
+
+                int categoryMinStockQuantity = 0;
+
+                using (var context = new LgwDbContex(Configuration))
+                {
+                    var category = await context.Categories.SingleAsync(x => x.Id == productDto.CategoryId);
+                    categoryMinStockQuantity = category.LimitQuantity;
+
+                    if (productDto.StockQuantity <= categoryMinStockQuantity)
+                    {
+                        return Response<NoContent>.Fail($"StockQuantity cannot under {categoryMinStockQuantity}", 500);
+                    }
+
+                    var product = ObjectMapper.Mapper.Map<Domain.Product.Product>(productDto);
+
+                    context.Add(product);
+                    await context.SaveChangesAsync();
+
+                    return Response<NoContent>.Success(204);
+                }
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
     }
 }

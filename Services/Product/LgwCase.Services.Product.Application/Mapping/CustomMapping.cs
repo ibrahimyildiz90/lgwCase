@@ -12,9 +12,11 @@ namespace LgwCase.Services.Product.Application.Mapping
     {
         public CustomMapping()
         {
-            CreateMap<Domain.Product.Category, CategoryDto>().ReverseMap(); ;
-            CreateMap<CategoryDto, Domain.Product.Category>().ReverseMap(); ;
-            CreateMap<AddCategoryDto, Domain.Product.Category>().ReverseMap();  
+            CreateMap<Domain.Product.Category, CategoryDto>().ReverseMap();            
+            CreateMap<AddCategoryDto, Domain.Product.Category>().ReverseMap();
+
+            CreateMap<Domain.Product.Product, ProductDto>().ReverseMap();
+            CreateMap<Domain.Product.Product, AddProductDto>().ReverseMap();
         }
 
     }
