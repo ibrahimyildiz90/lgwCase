@@ -37,3 +37,7 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Prod
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\LgwCase.Services.Product.Domain.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\LgwCase.Services.Product.Domain.Core.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll

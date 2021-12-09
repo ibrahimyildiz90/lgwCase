@@ -9,3 +9,4 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Prod
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\ref\LgwCase.Services.Product.Infrastructure.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.csprojAssemblyReference.cache

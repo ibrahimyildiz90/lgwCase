@@ -7,3 +7,4 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Prod
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.csproj.CoreCompileInputs.cache
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.csprojAssemblyReference.cache
