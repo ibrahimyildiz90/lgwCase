@@ -1,10 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\LgwCase.Shared\LgwCase.Shared.csproj" />
     <ProjectReference Include="..\LgwCase.Services.Product.Domain\LgwCase.Services.Product.Domain.csproj" />
     <ProjectReference Include="..\LgwCase.Services.Product.Infrastructure\LgwCase.Services.Product.Infrastructure.csproj" />
   </ItemGroup>

@@ -13,8 +13,4 @@
     <ProjectReference Include="..\LgwCase.Services.Product.Application\LgwCase.Services.Product.Application.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

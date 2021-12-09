@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,11 +11,28 @@ namespace LgwCase.Services.Product.Infrastructure
     public class LgwDbContex : DbContext
     {
         public string DEFAULT_SHEMA = "lgwCase";
+        public IConfiguration Configuration { get; }
 
-        public LgwDbContex(DbContextOptions<LgwDbContex> options) : base(options)
+        public LgwDbContex(IConfiguration configuration)
         {
+            Configuration = configuration;
+        }
+
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            string connStr = Configuration.GetConnectionString("DefaultConnection");
+            optionsBuilder.UseSqlServer(connStr,configure =>
+            {
+                configure.MigrationsAssembly("LgwCase.Services.Product.Infrastructure");
+            });
 
         }
+
+        //public LgwDbContex(DbContextOptions<LgwDbContex> options) : base(options)
+        //{
+
+        //}
         public DbSet<Domain.Product.Product> Products { get; set; }
 
         public DbSet<Domain.Product.Category> Categories { get; set; }

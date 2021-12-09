@@ -113,6 +113,9 @@
               },
               "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj": {
                 "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj"
+              },
+              "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
+                "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj"
               }
             }
           }
@@ -126,6 +129,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -137,6 +146,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

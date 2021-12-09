@@ -25,5 +25,6 @@ namespace LgwCase.Services.Product.Domain.Product
             StockQuantity = stockQuantity;
             Category = category;
         }
+       
     }
 }
