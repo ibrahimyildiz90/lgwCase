@@ -31,6 +31,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		docker-compose.yml = docker-compose.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LgwCase.Services.Product.API", "Services\Product\LgwCase.Services.Product.API\LgwCase.Services.Product.API.csproj", "{FFA1A44C-4647-454A-9746-CACA110B9C7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{A87BDB38-1C49-4155-AC11-AC47472A8DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A87BDB38-1C49-4155-AC11-AC47472A8DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A87BDB38-1C49-4155-AC11-AC47472A8DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA1A44C-4647-454A-9746-CACA110B9C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA1A44C-4647-454A-9746-CACA110B9C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA1A44C-4647-454A-9746-CACA110B9C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA1A44C-4647-454A-9746-CACA110B9C7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{AEB6D119-E14F-4722-9B56-83F90F07BC7F} = {DE6A0D83-6898-4279-865D-BBA5C0111DF0}
 		{0E188BE2-9531-4FAB-8888-9075979C3672} = {9F5F5590-1190-4655-BC3F-32B02DD570B4}
 		{A87BDB38-1C49-4155-AC11-AC47472A8DAE} = {B5B38639-4D49-41E1-9C9C-7C469A6972E2}
+		{FFA1A44C-4647-454A-9746-CACA110B9C7A} = {0E188BE2-9531-4FAB-8888-9075979C3672}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C237DF81-601F-4599-9DB2-9770E5AD555C}
