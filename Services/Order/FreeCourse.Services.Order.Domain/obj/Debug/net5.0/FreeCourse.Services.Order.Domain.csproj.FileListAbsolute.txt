@@ -1,0 +1,15 @@
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.deps.json
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\ref\FreeCourse.Services.Order.Domain.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.csprojAssemblyReference.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.AssemblyInfoInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.AssemblyInfo.cs
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.csproj.CoreCompileInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.csproj.CopyComplete
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\ref\FreeCourse.Services.Order.Domain.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.pdb
