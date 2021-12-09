@@ -91,7 +91,7 @@ namespace LgwCase.Services.Product.Application.Services
                     context.Add(category);
                     await context.SaveChangesAsync();
 
-                    return Response<NoContent>.Success(204);
+                    return Response<NoContent>.Success(200);
                 }
             }
             catch (Exception ex)
@@ -135,7 +135,7 @@ namespace LgwCase.Services.Product.Application.Services
                     context.Add(product);
                     await context.SaveChangesAsync();
 
-                    return Response<NoContent>.Success(204);
+                    return Response<NoContent>.Success(200);
                 }
 
             }

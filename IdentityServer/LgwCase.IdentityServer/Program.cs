@@ -54,7 +54,7 @@ namespace LgwCase.IdentityServer
 
                     if(!userManager.Users.Any())
                     {
-                        userManager.CreateAsync(new ApplicationUser {UserName="iyildiz",Email="ibrahimyildiz90@yandex.com",City="Kayseri" },"Password12'").Wait();
+                        userManager.CreateAsync(new ApplicationUser {UserName="logiwa",Email="user@logiwa.com",City="Istanbul" }, "Password12-").Wait();
                     }
                 }
 

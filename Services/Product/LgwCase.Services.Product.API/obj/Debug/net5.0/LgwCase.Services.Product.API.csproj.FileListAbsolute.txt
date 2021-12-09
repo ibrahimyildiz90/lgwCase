@@ -50,7 +50,6 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Prod
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\System.Runtime.Caching.dll
@@ -70,3 +69,4 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Prod
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\AutoMapper.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Humanizer.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

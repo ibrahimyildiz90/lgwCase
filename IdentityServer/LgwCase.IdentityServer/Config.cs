@@ -14,12 +14,7 @@ namespace LgwCase.IdentityServer
         public static IEnumerable<ApiResource> ApiResources =>
             new ApiResource[]
             {
-                 new ApiResource("resource_catalog"){Scopes={"catalog_fullpermission"}},
-                 new ApiResource("resorce_photo_stock"){Scopes={"photo_stock_fullpermission"}},
-                 new ApiResource("resource_basket"){Scopes={"basket_fullpermission"}},
-                 new ApiResource("resource_discount"){Scopes={"discount_fullpermission"}},
-                 new ApiResource("resource_order"){Scopes={"order_fullpermission"}},
-                 new ApiResource("resource_payment"){Scopes={"payment_fullpermission"}},
+                 new ApiResource("resource_product"){Scopes={"product_fullpermission"}},
                  new ApiResource("resource_gatewaw"){Scopes={"gateway_fullpermission"}},
                  new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
             };
@@ -36,12 +31,7 @@ namespace LgwCase.IdentityServer
         public static IEnumerable<ApiScope> ApiScopes =>
             new ApiScope[]
             {
-              new ApiScope("catalog_fullpermission","Catalog API İçin Full Erişim"),
-              new ApiScope("photo_stock_fullpermission","Photo Stock API İçin Full Erişim"),
-              new ApiScope("basket_fullpermission","Basket API İçin Full Erişim"),
-              new ApiScope("discount_fullpermission","Discount API İçin Full Erişim"),
-              new ApiScope("order_fullpermission","Order API İçin Full Erişim"),
-              new ApiScope("payment_fullpermission","Payment API İçin Full Erişim"),
+              new ApiScope("product_fullpermission","Product API İçin Full Erişim"),
               new ApiScope("gateway_fullpermission","Oselot API İçin Full Erişim"),
               new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
@@ -51,22 +41,21 @@ namespace LgwCase.IdentityServer
             {
                 new Client
                 {
-                    ClientName="Asp.net Core MVC",
-                    ClientId="WebMvcClient",
+                    ClientName="Logiwa Client User",
+                    ClientId="LogiwaUser",
                     ClientSecrets={new Secret("secret".Sha256())},
                     AllowedGrantTypes=GrantTypes.ClientCredentials,
-                    AllowedScopes={ "catalog_fullpermission", "photo_stock_fullpermission", "gateway_fullpermission",
+                    AllowedScopes={ "product_fullpermission", "gateway_fullpermission",
                         IdentityServerConstants.LocalApi.ScopeName }
                 },
-
                 new Client
                 {
-                    ClientName="Asp.net Core MVC",
-                    ClientId="WebMvcClientForUser",
+                    ClientName="LogiwaClient",
+                    ClientId="LogiwaClientUser",
                     AllowOfflineAccess=true,
                     ClientSecrets={new Secret("secret".Sha256())},
                     AllowedGrantTypes=GrantTypes.ResourceOwnerPassword,
-                    AllowedScopes={"basket_fullpermission","order_fullpermission",
+                    AllowedScopes={"product_fullpermission",
                         "gateway_fullpermission",
                         IdentityServerConstants.StandardScopes.Email,
                         IdentityServerConstants.StandardScopes.OpenId,
@@ -77,17 +66,7 @@ namespace LgwCase.IdentityServer
                     RefreshTokenExpiration=TokenExpiration.Absolute,
                     AbsoluteRefreshTokenLifetime=(int)(DateTime.Now.AddDays(60)-DateTime.Now).TotalSeconds,
                     RefreshTokenUsage=TokenUsage.ReUse
-                },
-                 new Client
-                {
-                    ClientName="Token Exchange Client",
-                    ClientId="TokenExchangeClient",
-                    ClientSecrets={new Secret("secret".Sha256())},
-                    AllowedGrantTypes=new[]{ "urn:ietf:params:oauth:grant-type:token-exchange" },
-                    AllowedScopes={ "discount_fullpermission", "payment_fullpermission",
-                                    IdentityServerConstants.StandardScopes.OpenId}
-                },
-
+                }
             };
     }
 }
