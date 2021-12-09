@@ -9,6 +9,10 @@ namespace LgwCase.Services.Product.Domain.Product
 {
     public class Category : Entity
     {
+        public Category()
+        {
+
+        }
         public string Name { get; set; }
         public int LimitQuantity { get; set; }
 

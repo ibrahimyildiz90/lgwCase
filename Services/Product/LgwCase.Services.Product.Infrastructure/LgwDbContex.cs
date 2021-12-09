@@ -10,6 +10,10 @@ namespace LgwCase.Services.Product.Infrastructure
 {
     public class LgwDbContex : DbContext
     {
+        //public LgwDbContex()
+        //{
+
+        //}
         public string DEFAULT_SHEMA = "lgwCase";
         public IConfiguration Configuration { get; }
 
@@ -22,17 +26,17 @@ namespace LgwCase.Services.Product.Infrastructure
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             string connStr = Configuration.GetConnectionString("DefaultConnection");
-            optionsBuilder.UseSqlServer(connStr,configure =>
-            {
-                configure.MigrationsAssembly("LgwCase.Services.Product.Infrastructure");
-            });
+            optionsBuilder.UseSqlServer(connStr, configure =>
+             {
+                 configure.MigrationsAssembly("LgwCase.Services.Product.Infrastructure");
+             });
 
         }
 
-        //public LgwDbContex(DbContextOptions<LgwDbContex> options) : base(options)
-        //{
+        public LgwDbContex(DbContextOptions<LgwDbContex> options) : base(options)
+        {
 
-        //}
+        }
         public DbSet<Domain.Product.Product> Products { get; set; }
 
         public DbSet<Domain.Product.Category> Categories { get; set; }
@@ -41,7 +45,12 @@ namespace LgwCase.Services.Product.Infrastructure
             modelBuilder.Entity<Domain.Product.Product>().ToTable("Products", DEFAULT_SHEMA);
             modelBuilder.Entity<Domain.Product.Category>().ToTable("Categories", DEFAULT_SHEMA);
 
-            modelBuilder.Entity<Domain.Product.Product>().Property(x => x.Title).HasColumnType("nvarchar(200)");
+            modelBuilder.Entity<Domain.Product.Product>().Property(x => x.Title).HasColumnType("nvarchar(200)").IsRequired();
+
+            modelBuilder.Entity<Domain.Product.Product>()
+                .HasOne<Domain.Product.Category>(x => x.Category);
+                
+            base.OnModelCreating(modelBuilder);
         }
     }
 }

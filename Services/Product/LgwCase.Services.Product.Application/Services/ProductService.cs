@@ -22,6 +22,8 @@ namespace LgwCase.Services.Product.Application.Services
         }
         public async Task<Response<List<ProductDto>>> SearchProductByKey(string key)
         {
+            /*return new Response<List<ProductDto>>();*/
+
             using (var context = new LgwDbContex(Configuration))
             {
                 var productList = await context.Products.Where(x => x.Title == key).ToListAsync();

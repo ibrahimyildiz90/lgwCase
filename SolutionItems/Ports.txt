@@ -26,3 +26,5 @@ UserName="iyildiz",Email="ibrahimyildiz90@yandex.com",City="Kayseri" },"Password
 
 Services
 	-ProductAPI => 5017
+
+Product Db localhost,1445 ---- sa lPassword123
