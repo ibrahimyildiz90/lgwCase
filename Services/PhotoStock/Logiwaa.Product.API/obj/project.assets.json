@@ -580,11 +580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Logiwa.Product.API.csproj",
-      "projectName": "Logiwa.Product.API",
-      "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Logiwa.Product.API.csproj",
+      "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\PhotoStock\\Logiwaa.Product.API\\Logiwaa.Product.API.csproj",
+      "projectName": "Logiwaa.Product.API",
+      "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\PhotoStock\\Logiwaa.Product.API\\Logiwaa.Product.API.csproj",
       "packagesPath": "C:\\Users\\3788882\\.nuget\\packages\\",
-      "outputPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\obj\\",
+      "outputPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\PhotoStock\\Logiwaa.Product.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

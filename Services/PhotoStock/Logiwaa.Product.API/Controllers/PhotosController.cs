@@ -10,7 +10,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Logiwa.Product.API.Controllers
+namespace Logiwaa.Product.API.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]

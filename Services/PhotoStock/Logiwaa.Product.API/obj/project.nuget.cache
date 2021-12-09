@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JPbOhPix0ASjMctWvP7WaqjtfY2mr+SATPoAnv/Hf+H0NnXj4dW3aFBCgjpkQSHZ4coxAGDe5bbgiwiA2x+Xpw==",
+  "dgSpecHash": "gr6JO0eRknBNYOgb76xASgA8vR8pib235P29a1vtbwAIKs7ZTGJPNCtReGW8zfZjQNF750UUhQriKcaWx96mIw==",
   "success": true,
-  "projectFilePath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\PhotoStock\\FreeCourse.Services.PhotoStock\\Logiwa.Product.API.csproj",
+  "projectFilePath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\PhotoStock\\Logiwaa.Product.API\\Logiwaa.Product.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3788882\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.10\\microsoft.aspnetcore.authentication.jwtbearer.5.0.10.nupkg.sha512",
     "C:\\Users\\3788882\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
