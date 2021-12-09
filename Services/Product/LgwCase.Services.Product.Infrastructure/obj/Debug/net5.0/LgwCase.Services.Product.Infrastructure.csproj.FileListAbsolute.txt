@@ -10,3 +10,11 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Prod
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\ref\LgwCase.Services.Product.Infrastructure.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.csprojAssemblyReference.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.runtimeconfig.json
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.runtimeconfig.dev.json
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Domain.Core.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Domain.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Domain.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Domain.Core.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.csproj.CopyComplete
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.genruntimeconfig.cache

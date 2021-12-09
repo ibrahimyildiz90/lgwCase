@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace LgwCase.Services.Product.Domain.Product
 {
-    public class Product : Entity
-    {
-        public int Id { get; private set; }
+    public class Product : Entity    {
+
         public string Title { get; private set; }
         public string Description { get; private set; }
         //public int CategoryId { get; private set; }
