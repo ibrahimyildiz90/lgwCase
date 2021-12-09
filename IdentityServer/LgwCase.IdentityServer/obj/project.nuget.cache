@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YQ9Ri7vPwwdMNzbJjkxPu+LZ6fnjwOkU2X499SAQ8w4o91YfvVBOxD82Ug4tLJuD+IYFXaHnv8bQY09YPPS12Q==",
+  "dgSpecHash": "NxlB4CVBvIdYKfw+GuPeLb+gCZuXRz1G5w1hvvjoWQBzjgoriEYxadbVvbimN46/F+ZNRr4jGhIl2UG6qShK+Q==",
   "success": true,
   "projectFilePath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\IdentityServer\\LgwCase.IdentityServer\\LgwCase.IdentityServer.csproj",
   "expectedPackageFiles": [
@@ -145,7 +145,7 @@
     "C:\\Users\\3788882\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\3788882\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\3788882\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\3788882\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+    "C:\\Users\\3788882\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],
   "logs": []
 }

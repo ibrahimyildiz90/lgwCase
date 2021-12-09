@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LgwCase.Services.Product.Infrastructure/1.0.0": {
+        "runtime": {
+          "LgwCase.Services.Product.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LgwCase.Services.Product.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

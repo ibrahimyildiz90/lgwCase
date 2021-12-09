@@ -21,3 +21,8 @@ Password12'
 identity user
 WebMvcClientForUser ahfet@falan.com.tr Password12-
 UserName="iyildiz",Email="ibrahimyildiz90@yandex.com",City="Kayseri" },"Password12'
+
+
+
+Services
+	-ProductAPI => 5017

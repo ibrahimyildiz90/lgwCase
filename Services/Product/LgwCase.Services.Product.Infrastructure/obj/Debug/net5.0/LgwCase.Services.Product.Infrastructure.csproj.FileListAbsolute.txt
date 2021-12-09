@@ -1,0 +1,11 @@
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.deps.json
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\ref\LgwCase.Services.Product.Infrastructure.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.AssemblyInfoInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.AssemblyInfo.cs
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\ref\LgwCase.Services.Product.Infrastructure.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.pdb

@@ -1,0 +1,9 @@
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\bin\Debug\netcoreapp3.1\LgwCase.Shared.deps.json
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\bin\Debug\netcoreapp3.1\LgwCase.Shared.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\bin\Debug\netcoreapp3.1\LgwCase.Shared.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.AssemblyInfoInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.AssemblyInfo.cs
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.csproj.CoreCompileInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.GeneratedMSBuildEditorConfig.editorconfig

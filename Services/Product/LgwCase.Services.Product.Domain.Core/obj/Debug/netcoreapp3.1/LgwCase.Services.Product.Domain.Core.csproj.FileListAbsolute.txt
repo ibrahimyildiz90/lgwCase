@@ -1,0 +1,9 @@
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\bin\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.deps.json
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\bin\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\bin\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.pdb
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.AssemblyInfoInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.AssemblyInfo.cs
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.csproj.CoreCompileInputs.cache
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.dll
+E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.pdb
