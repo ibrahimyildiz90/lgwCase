@@ -1,4 +1,6 @@
-﻿using LgwCase.Services.Product.Application.Services;
+﻿using LgwCase.Services.Product.API.Models;
+using LgwCase.Services.Product.Application.Dtos;
+using LgwCase.Services.Product.Application.Services;
 using LgwCase.Shared.ControllerBases;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -25,6 +27,23 @@ namespace LgwCase.Services.Product.API.Controllers
             var response = await _productService.SearchProductByKey(key);
             
             return CreateActionResultInstance(response);
+        }
+
+        [HttpPost]
+        [Route("/api/[controller]/[action]")]
+        public async Task<IActionResult> GetProductListByQuantity(StockQuantityFilterModel filter)
+        {
+            return CreateActionResultInstance(await _productService.GetProductListByQuantity(filter.QuantityMin,filter.QuantityMax));
+        }
+
+        [HttpPost]
+        [Route("/api/[controller]/[action]")]
+        public async Task<IActionResult> AddCategory(AddCategoryDto model)
+        {
+            //var dto = new AddCategoryDto();
+            //dto.Name = model.Name;
+            //dto.LimitQuantity = model.LimitQuantity;
+            return CreateActionResultInstance(await _productService.AddCategory(model));
         }
     }
 }

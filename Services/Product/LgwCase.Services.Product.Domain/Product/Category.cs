@@ -13,8 +13,13 @@ namespace LgwCase.Services.Product.Domain.Product
         {
 
         }
-        public string Name { get; set; }
-        public int LimitQuantity { get; set; }
+        public string Name { get; private set; }
+        public int LimitQuantity { get; private set; }
 
+        public Category(string name, int limitQuantity)
+        {
+            Name = name;
+            LimitQuantity = limitQuantity;
+        }
     }
 }
