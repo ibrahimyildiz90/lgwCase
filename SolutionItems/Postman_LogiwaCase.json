@@ -119,7 +119,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"quantityMin\": 1,\r\n  \"quantityMax\": 110\r\n}",
+					"raw": "{\r\n  \"quantityMin\": 1,\r\n  \"quantityMax\": 610\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"

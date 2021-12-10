@@ -122,7 +122,12 @@ namespace LgwCase.Services.Product.Application.Services
 
                 using (var context = new LgwDbContex(Configuration))
                 {
-                    var category = await context.Categories.SingleAsync(x => x.Id == productDto.CategoryId);
+                    var category = await context.Categories.SingleOrDefaultAsync(x => x.Id == productDto.CategoryId);
+                    if (category == null)
+                    {
+                        return Response<NoContent>.Fail($"Wrong CategoryId", 500);
+                    }
+
                     categoryMinStockQuantity = category.LimitQuantity;
 
                     if (productDto.StockQuantity <= categoryMinStockQuantity)
@@ -142,7 +147,7 @@ namespace LgwCase.Services.Product.Application.Services
             catch (Exception)
             {
 
-                throw;
+                return Response<NoContent>.Fail("unexpected error occurred ", 500);
             }
         }
     }
