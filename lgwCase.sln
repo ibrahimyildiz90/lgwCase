@@ -41,6 +41,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.Services.Product.AP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.Services.Product.Domain", "Services\Product\LgwCase.Services.Product.Domain\LgwCase.Services.Product.Domain.csproj", "{F1E6830F-5ECD-446F-95EE-7508F91DA72F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{91B5A2E2-2CB5-4121-B6EB-D777E7CE0B37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.Services.Product.Application.Test", "Tests\LgwCase.Services.Product.Application.Test\LgwCase.Services.Product.Application.Test.csproj", "{A78FD82D-A92C-4F71-810C-40A5F918F7C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +83,10 @@ Global
 		{F1E6830F-5ECD-446F-95EE-7508F91DA72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1E6830F-5ECD-446F-95EE-7508F91DA72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1E6830F-5ECD-446F-95EE-7508F91DA72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78FD82D-A92C-4F71-810C-40A5F918F7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78FD82D-A92C-4F71-810C-40A5F918F7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78FD82D-A92C-4F71-810C-40A5F918F7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78FD82D-A92C-4F71-810C-40A5F918F7C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +101,7 @@ Global
 		{1E6817EB-629F-44FA-820B-1134DD326FFF} = {0E188BE2-9531-4FAB-8888-9075979C3672}
 		{FAEB9366-E5C0-4423-BA38-438482776E0A} = {0E188BE2-9531-4FAB-8888-9075979C3672}
 		{F1E6830F-5ECD-446F-95EE-7508F91DA72F} = {0E188BE2-9531-4FAB-8888-9075979C3672}
+		{A78FD82D-A92C-4F71-810C-40A5F918F7C9} = {91B5A2E2-2CB5-4121-B6EB-D777E7CE0B37}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C237DF81-601F-4599-9DB2-9770E5AD555C}
