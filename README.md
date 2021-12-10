@@ -9,22 +9,22 @@
 ```
 
 ## Projenin ile ilgili açıklamalar
-'''
+```
 Proje .net 5.0 da geliştirlimiştir
 Token yönetimi için Identtiy Server 4 kullanılmıştır.
 Gateway olarak Oselot kütüphanesinden faydalanılmıştır.
 Proje mikroservis mimarasi üzerine inşa edilmiştir
-'''
+```
 
 ## Endpoin açıklamaları
-'''
+```
 Bu bölümde verilecek olan port bilgilerinin hepsi proje dizininde SolutionItems klasörü altındaki Port.txt klasöründe mevcuttur.
 SolutionItems klasörü altında ki **Postman_LogiwaCase.json** dosyasında postman collection'ı paylaşılmıştır.
 Services Ports:
 	-ProductAPI => 5017
 	-identityserver=> 5001
 	-gateway=> 5000
-'''
+```
 
 ##
 
