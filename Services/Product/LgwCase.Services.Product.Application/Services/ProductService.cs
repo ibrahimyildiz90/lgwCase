@@ -1,6 +1,8 @@
 ﻿using AutoMapper.Configuration;
+using FluentValidation.Results;
 using LgwCase.Services.Product.Application.Dtos;
 using LgwCase.Services.Product.Application.Mapping;
+using LgwCase.Services.Product.Application.Validations;
 using LgwCase.Services.Product.Domain.Product;
 using LgwCase.Services.Product.Infrastructure;
 using LgwCase.Shared.Dtos;
@@ -79,10 +81,16 @@ namespace LgwCase.Services.Product.Application.Services
         {
             try
             {
-                if (String.IsNullOrEmpty(categoryDto.Name) || categoryDto.LimitQuantity <= 0)
+                CategoryDtoValidator validator = new CategoryDtoValidator();
+                var validatorResult = validator.Validate(categoryDto);
+                string errorMessage = String.Empty;
+                if (!validatorResult.IsValid)
                 {
-                    return Response<NoContent>.Fail("Check category name or limit quantity", 500);
-                }
+                    validatorResult.Errors
+                        .ForEach(e => errorMessage = String.Concat(errorMessage, String.IsNullOrEmpty(errorMessage) ? "" : ",", e.ErrorMessage));
+
+                    return Response<NoContent>.Fail(errorMessage, 500);
+                }               
 
                 var category = ObjectMapper.Mapper.Map<Category>(categoryDto);
 
@@ -104,37 +112,22 @@ namespace LgwCase.Services.Product.Application.Services
         {
             try
             {
-                if (String.IsNullOrEmpty(productDto.Title))
+                ProductDtoValidator validator = new ProductDtoValidator(Configuration);
+                var validatorResult = validator.Validate(productDto);
+                string errorMessage = String.Empty;
+                if (!validatorResult.IsValid)
                 {
-                    return Response<NoContent>.Fail("Title cannot be empty", 500);
-                }
-                if (productDto.Title.Length > 200)
-                {
-                    return Response<NoContent>.Fail("Title must be maxium 200 character", 500);
-                }
+                    validatorResult.Errors
+                        .ForEach(e => errorMessage = String.Concat(errorMessage, String.IsNullOrEmpty(errorMessage) ? "" : ",", e.ErrorMessage));
 
-                if (productDto.CategoryId == null)
-                {
-                    return Response<NoContent>.Fail("Category cannot be emty", 500);
+                    return Response<NoContent>.Fail(errorMessage, 500);
                 }
+                
 
                 int categoryMinStockQuantity = 0;
 
                 using (var context = new LgwDbContex(Configuration))
                 {
-                    var category = await context.Categories.SingleOrDefaultAsync(x => x.Id == productDto.CategoryId);
-                    if (category == null)
-                    {
-                        return Response<NoContent>.Fail($"Wrong CategoryId", 500);
-                    }
-
-                    categoryMinStockQuantity = category.LimitQuantity;
-
-                    if (productDto.StockQuantity <= categoryMinStockQuantity)
-                    {
-                        return Response<NoContent>.Fail($"StockQuantity cannot under {categoryMinStockQuantity}", 500);
-                    }
-
                     var product = ObjectMapper.Mapper.Map<Domain.Product.Product>(productDto);
 
                     context.Add(product);

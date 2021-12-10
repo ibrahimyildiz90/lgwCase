@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eW6tUis9kF3BWRYh+/QQdocGNsZi/8/7/7SicqQZAWZ+ZLxy+6ay+v744Ww9JLnxWh/+KlQFIDcOOpmnNJFuyA==",
+  "dgSpecHash": "dODSolY3LGmvzO0FIq+LJ7klyHNxRAnBw6npunHavQD7mdxhgFmmHbq420jDTAF0lX/6a8xyOXhH8i7Am2KYSg==",
   "success": true,
   "projectFilePath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.API\\LgwCase.Services.Product.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3788882\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\3788882\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
+    "C:\\Users\\3788882\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.5\\fluentvalidation.aspnetcore.10.3.5.nupkg.sha512",
+    "C:\\Users\\3788882\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.5\\fluentvalidation.dependencyinjectionextensions.10.3.5.nupkg.sha512",
     "C:\\Users\\3788882\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\3788882\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.4\\microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",
     "C:\\Users\\3788882\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

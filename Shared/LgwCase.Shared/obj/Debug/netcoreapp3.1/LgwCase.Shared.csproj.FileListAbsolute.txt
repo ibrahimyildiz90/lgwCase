@@ -7,3 +7,4 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcor
 E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Calismalarim\githup prj\logiwa\lgwCase\Shared\LgwCase.Shared\obj\Debug\netcoreapp3.1\LgwCase.Shared.csprojAssemblyReference.cache
