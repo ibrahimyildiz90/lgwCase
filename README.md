@@ -3,9 +3,9 @@
 1- Komut satırını açın ve proje dizinine locate olun.
 2- Komut satırına 'Docker-Compose run' yazıp enter tuşuna basın
 3- visual studio da projeyi açın
-4- Set a startup project olaran 'LgwCase.Services.Product.API' seçin
+4- Set a startup project olarak 'LgwCase.Services.Product.API' seçin
 5- Package manager console da default Proje olarak LgwCase.Services.Product.Infrastructure seçin
-6- Package manager console da 2Update-Database' komutunu çalıştırın
+6- Package manager console da 'Update-Database' komutunu çalıştırın
 ```
 
 ## Projenin ile ilgili açıklamalar
