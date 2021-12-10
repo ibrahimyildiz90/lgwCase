@@ -88,7 +88,7 @@ namespace LgwCase.Services.Product.Application.Services
                 {
                     var messageList = validatorResult.Errors.Select(x => x.ErrorMessage).ToList();
 
-                    return Response<NoContent>.Fail(messageList, 500);
+                    return Response<NoContent>.Fail(messageList, 400);
                 }               
 
                 var category = ObjectMapper.Mapper.Map<Category>(categoryDto);
@@ -117,7 +117,7 @@ namespace LgwCase.Services.Product.Application.Services
                 if (!validatorResult.IsValid)
                 {
                     var messageList = validatorResult.Errors.Select(x => x.ErrorMessage).ToList();
-                    return Response<NoContent>.Fail(messageList, 500);                  
+                    return Response<NoContent>.Fail(messageList, 400);                  
                 }
                 
 
