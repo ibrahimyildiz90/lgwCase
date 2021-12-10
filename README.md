@@ -13,7 +13,8 @@
 Proje .net 5.0 da geliştirlimiştir
 Token yönetimi için Identtiy Server 4 kullanılmıştır.
 Gateway olarak Oselot kütüphanesinden faydalanılmıştır.
-Proje mikroservis mimarasi üzerine inşa edilmiştir
+Proje mikroservis mimarasi üzerine inşa edilmiştir.
+Validation için Fluen Validation kütüphanesi kullanılmıştır.
 ```
 
 ## Endpoin açıklamaları
@@ -46,7 +47,7 @@ Visiual Studio da solution properties de 3 projede ayağa kalkacak şekilde ayar
 Postman collectionındaki endpointlere çağrıda bulunun(Öncelikle token alan end pointten token alıp, ilgili enppointeki servise token'ı OAuth 2.0 olarak ekleyin).
 ```
 
-###### Validationlar ile ilgili fluent validation kullanılması ve unit teslerinin yazılması zaman sıkıntısı nedeniyle yapılamadı.
+######  Unit teslerinin yazılması zaman sıkıntısı nedeniyle yapılamadı.
 ###### Teşekkürler :)
 
 
