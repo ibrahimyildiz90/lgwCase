@@ -1,59 +1,25 @@
 version: '3.8'
-services:
-  catalogdb:
-    container_name: catelogdb
-    restart: always
-    ports:
-      - "27017:27017"
-    volumes:
-      - catelogdb_volume:/data/db
-  basketdb:
-    container_name: basketdb
-    restart: always
-    ports:
-      - "6379:6379"
-  discountdb:
-    container_name: discountdb
-    restart: always
-    ports:
-      - "5432:5432"
-    volumes:
-      - discountdb_volume:/var/lib/postgresql
-    environment:
-      - POSTGRES_USER=sa
-      - POSTGRES_PASSWORD=12345678
-      - PSOTGRES_DB=discountdb
+services:  
   identitydb:
-      container_name: identitydb
-      restart: always
-      ports:
-        - "1433:1433"
-      volumes:
-        - Identitydb_volume:/var/opt/mssql
-      environment:
-        - ACCEPT_EULA=Y
-        - SA_PASSWORD=Password12*    
-  orderdb:
-    container_name: orderdb
+    container_name: identitydb
     restart: always
     ports:
-      - "1444:1433"
+      - "1433:1433"
     volumes:
-      - orderdb_volume:/var/opt/mssql
+      - Identitydb_volume:/var/opt/mssql
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Password12*    
+  productdb:
+    container_name: productdb
+    restart: always
+    ports:
+      - "1445:1433"
+    volumes:
+      - productdb_volume:/var/opt/mssql
     environment:
        - ACCEPT_EULA=Y
-       - SA_PASSWORD=Password12*
-  catalog.api:
-    container_name: catalog.api
-    restart: on-failure
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-      - IdentityServerURL:http://identityserver.api:5001
-      - DatabaseSettings:ConnectionString=mongodb://catalogdb:27017
-    ports:
-      - "5011:80"
-    depends_on:
-      - catalogdb
+       - SA_PASSWORD=Password123 
   identityserver.api:
     container_name: identityserver.api
     restart: on-failure
@@ -63,28 +29,21 @@ services:
     ports:
       - "5001:80"
     depends_on:
-      - identitydb
-  basket.api:
-    container_name: basket.api
-    restart: always
+      - identitydb  
+  product.api:
+    container_name: product.api
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - IdentityServerURL:http://identityserver.api:5001
-      - RedisSettings:Port=6379
-      - RedisSettings:basketdb
+      - IdentityServerURL=http://identityserver.api
+      - "ConnectionStrings.DefaultConnection=Server=productdb,1433;Database=productdb;User=sa;Password=Password123"
     ports:
-      - "5013:80"
+      - "5017:80"
     depends_on:
-      - basketdb
-  photostock.api:
-    container_name: photostock.api
-    restart: always
+      - productdb
+  gateway.api:
+    container_name: gateway.api
     environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-      - IdentityServerURL:http://identityserver.api:5001    
+      - ASPNETCORE_ENVIRONMENT=Production
+      - IdentityServerURL=http://identityserver.api 
     ports:
-      - "5012:80"
-    volumes:
-      - type: bind
-        source: E:\photos
-        target: /app/wwwroot/photos
+      - "5000:80"
