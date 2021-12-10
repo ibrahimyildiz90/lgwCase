@@ -24,9 +24,31 @@ Services Ports:
 	-ProductAPI => 5017
 	-identityserver=> 5001
 	-gateway=> 5000
+
+İdentityServer: http://localhost:5001/connect/token
+GateWay: http://localhost:5000
+ProductAPI: http://localhost:5017/api/Product/{actionname}
+ProductAPI(GateWay üzerinden): http://localhost:5000/Services/Product/Product/{actionName}
 ```
 
-##
+## Kullanıcı açıklamarı
+```
+Proje ayağa kalkarken token alabilmesi için bir adet kullanıcı oluşturulmaktadır(UserName: user@logiwa.com, Password:Password12-).
+Bu kullanıcı ile identity serverdan (http://localhost:5001/connect/token) token alınabilinecektir.Postman colllectionında detaylı endpoinlere ulaşacabilirsiniz.
+Alınan token ile diğer endpoinlere çağrıda bulunabilirsiniz
+```
+
+## Docker ile token alınması durumunda
+'''
+Bu durumda eğer hata alırsanız **identitydb ve productdb** containerları dışındaki tüm containerları durdurun.
+Visiual Studio üzerinde projeyi açın. Tüm projeleri set a startup olarak ayrı ayı çalıştırıp run edin.
+Visiual Studio da solution properties de 3 projede ayağa kalkacak şekilde ayarlayın.
+Postman collectionındaki endpointlere çağrıda bulunun(Öncelikle token alan end pointten token alıp, ilgili enppointeki servise token'ı OAuth 2.0 olarak ekleyin).
+'''
+
+###### Validationlar ile ilgili fluent validation kullanılması ve unit teslerinin yazılması zaman sıkıntısı nedeniyle yapılamadı.
+###### Teşekkürler :)
+
 
 
 
