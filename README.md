@@ -15,6 +15,7 @@ Token yönetimi için Identtiy Server 4 kullanılmıştır.
 Gateway olarak Oselot kütüphanesinden faydalanılmıştır.
 Proje mikroservis mimarasi üzerine inşa edilmiştir.
 Validation için Fluen Validation kütüphanesi kullanılmıştır.
+Identity Server ayağa kalkerken Database Migration işlemi otomatik yapılmıştır. Örnek olması açısında API nin migration'ı package manager console dan yapılmalıdır
 ```
 
 ## Endpoin açıklamaları
