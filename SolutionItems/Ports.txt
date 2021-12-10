@@ -1,30 +1,14 @@
-﻿Services
-	-catalogAPI=> 5011
-	-photoscockAPI=>5012
-	-basketAPI=>5013
-	-discountAPI=>5014
-	-orderAPI=>5015
-	-fakePaymentAPI=>5016
-identityserver=> 5001
-gateway=> 5000
-Web=>5010
+﻿Databases:
+	Database=Identitydb;User=sa;Password=12345678;
+	Server=localhost,1445;Database=productdb;User=sa;Password=Password123;
+
+identity user:
+	user@logiwa.com Password12-
 
 
-Portainer => http://localhost:9000/#!/auth admin 12345678
-Database=Identitydb;User=sa;Password=12345678;
-Server=localhost,1444;Database=OrderDb;User=sa;Password=Password12*;
-POSTGRES_PASSWORD='Sa' -e  POSTGRES_PASSWORD=12345678
-Password12'
-
-
-
-identity user
-WebMvcClientForUser ahfet@falan.com.tr Password12-
-UserName="iyildiz",Email="ibrahimyildiz90@yandex.com",City="Kayseri" },"Password12'
-
-
-
-Services
+Services Ports:
 	-ProductAPI => 5017
+	-identityserver=> 5001
+	-gateway=> 5000
 
-Product Db localhost,1445 ---- sa lPassword123
+

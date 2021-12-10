@@ -106,7 +106,7 @@ namespace LgwCase.Services.Product.Application.Services
             {
                 if (String.IsNullOrEmpty(productDto.Title))
                 {
-                    return Response<NoContent>.Fail("Title cannot be emty", 500);
+                    return Response<NoContent>.Fail("Title cannot be empty", 500);
                 }
                 if (productDto.Title.Length > 200)
                 {

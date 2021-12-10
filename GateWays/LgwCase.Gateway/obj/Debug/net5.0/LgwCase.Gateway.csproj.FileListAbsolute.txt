@@ -83,4 +83,3 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net
 E:\Calismalarim\githup prj\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\ref\LgwCase.Gateway.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.genruntimeconfig.cache
-E:\Calismalarim\githup prj\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.csprojAssemblyReference.cache
