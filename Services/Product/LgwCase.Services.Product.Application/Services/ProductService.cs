@@ -86,10 +86,9 @@ namespace LgwCase.Services.Product.Application.Services
                 string errorMessage = String.Empty;
                 if (!validatorResult.IsValid)
                 {
-                    validatorResult.Errors
-                        .ForEach(e => errorMessage = String.Concat(errorMessage, String.IsNullOrEmpty(errorMessage) ? "" : ",", e.ErrorMessage));
+                    var messageList = validatorResult.Errors.Select(x => x.ErrorMessage).ToList();
 
-                    return Response<NoContent>.Fail(errorMessage, 500);
+                    return Response<NoContent>.Fail(messageList, 500);
                 }               
 
                 var category = ObjectMapper.Mapper.Map<Category>(categoryDto);
@@ -117,10 +116,8 @@ namespace LgwCase.Services.Product.Application.Services
                 string errorMessage = String.Empty;
                 if (!validatorResult.IsValid)
                 {
-                    validatorResult.Errors
-                        .ForEach(e => errorMessage = String.Concat(errorMessage, String.IsNullOrEmpty(errorMessage) ? "" : ",", e.ErrorMessage));
-
-                    return Response<NoContent>.Fail(errorMessage, 500);
+                    var messageList = validatorResult.Errors.Select(x => x.ErrorMessage).ToList();
+                    return Response<NoContent>.Fail(messageList, 500);                  
                 }
                 
 
