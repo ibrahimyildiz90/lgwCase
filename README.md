@@ -39,12 +39,12 @@ Alınan token ile diğer endpoinlere çağrıda bulunabilirsiniz
 ```
 
 ## Docker ile token alınması durumunda
-'''
+```
 Bu durumda eğer hata alırsanız **identitydb ve productdb** containerları dışındaki tüm containerları durdurun.
 Visiual Studio üzerinde projeyi açın. Tüm projeleri set a startup olarak ayrı ayı çalıştırıp run edin.
 Visiual Studio da solution properties de 3 projede ayağa kalkacak şekilde ayarlayın.
 Postman collectionındaki endpointlere çağrıda bulunun(Öncelikle token alan end pointten token alıp, ilgili enppointeki servise token'ı OAuth 2.0 olarak ekleyin).
-'''
+```
 
 ###### Validationlar ile ilgili fluent validation kullanılması ve unit teslerinin yazılması zaman sıkıntısı nedeniyle yapılamadı.
 ###### Teşekkürler :)
