@@ -20,8 +20,8 @@ services:
     environment:
        - ACCEPT_EULA=Y
        - SA_PASSWORD=Password123 
-  identityserver.api:
-    container_name: identityserver.api
+  identityserverApi:
+    container_name: identityserverApi
     restart: on-failure
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
@@ -34,8 +34,8 @@ services:
     container_name: product.api
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - IdentityServerURL=http://identityserver.api
-      - "ConnectionStrings.DefaultConnection=Server=productdb,1433;Database=productdb;User=sa;Password=Password123"
+      - IdentityServerURL=http://identityserverApi      
+      - "ConnectionStrings.DefaultConnection=Server=productdb,1445;Database=productdb;User=sa;Password=Password123"
     ports:
       - "5017:80"
     depends_on:
@@ -44,6 +44,7 @@ services:
     container_name: gateway.api
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
-      - IdentityServerURL=http://identityserver.api 
+      - IdentityServerURL=http://identityserverApi 
     ports:
       - "5000:80"
+      
