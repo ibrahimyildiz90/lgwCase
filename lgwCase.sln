@@ -7,8 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{9F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{5C7254F6-8D6C-4A39-AE6B-6C5770DE7FD1}"
 	ProjectSection(SolutionItems) = preProject
-		SolutionItems\MikroServis.postman_collection.json = SolutionItems\MikroServis.postman_collection.json
 		SolutionItems\Ports.txt = SolutionItems\Ports.txt
+		SolutionItems\Postman_LogiwaCase.json = SolutionItems\Postman_LogiwaCase.json
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{1B28D76D-D29B-42B2-9F3A-1E12C405D7EF}"
@@ -33,13 +33,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.Services.Product.Application", "Services\Product\LgwCase.Services.Product.Application\LgwCase.Services.Product.Application.csproj", "{8EB71FFA-3337-49F5-B10B-36BBDB672F21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LgwCase.Services.Product.Domain.Core", "Services\Product\LgwCase.Services.Product.Domain.Core\LgwCase.Services.Product.Domain.Core.csproj", "{1C9E3709-C370-4CEC-8F4A-820D891E1740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.Services.Product.Domain.Core", "Services\Product\LgwCase.Services.Product.Domain.Core\LgwCase.Services.Product.Domain.Core.csproj", "{1C9E3709-C370-4CEC-8F4A-820D891E1740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LgwCase.Services.Product.Infrastructure", "Services\Product\LgwCase.Services.Product.Infrastructure\LgwCase.Services.Product.Infrastructure.csproj", "{1E6817EB-629F-44FA-820B-1134DD326FFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.Services.Product.Infrastructure", "Services\Product\LgwCase.Services.Product.Infrastructure\LgwCase.Services.Product.Infrastructure.csproj", "{1E6817EB-629F-44FA-820B-1134DD326FFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LgwCase.Services.Product.API", "Services\Product\LgwCase.Services.Product.API\LgwCase.Services.Product.API.csproj", "{FAEB9366-E5C0-4423-BA38-438482776E0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.Services.Product.API", "Services\Product\LgwCase.Services.Product.API\LgwCase.Services.Product.API.csproj", "{FAEB9366-E5C0-4423-BA38-438482776E0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LgwCase.Services.Product.Domain", "Services\Product\LgwCase.Services.Product.Domain\LgwCase.Services.Product.Domain.csproj", "{F1E6830F-5ECD-446F-95EE-7508F91DA72F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LgwCase.Services.Product.Domain", "Services\Product\LgwCase.Services.Product.Domain\LgwCase.Services.Product.Domain.csproj", "{F1E6830F-5ECD-446F-95EE-7508F91DA72F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
