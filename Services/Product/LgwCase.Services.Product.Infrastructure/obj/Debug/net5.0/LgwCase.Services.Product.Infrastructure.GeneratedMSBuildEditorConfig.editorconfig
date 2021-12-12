@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = LgwCase.Services.Product.Infrastructure
-build_property.ProjectDir = D:\calismalar\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\
+build_property.ProjectDir = D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\

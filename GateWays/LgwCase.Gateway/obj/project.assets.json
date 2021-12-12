@@ -728,11 +728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\GateWays\\LgwCase.Gateway\\LgwCase.Gateway.csproj",
+      "projectUniqueName": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\GateWays\\LgwCase.Gateway\\LgwCase.Gateway.csproj",
       "projectName": "LgwCase.Gateway",
-      "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\GateWays\\LgwCase.Gateway\\LgwCase.Gateway.csproj",
+      "projectPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\GateWays\\LgwCase.Gateway\\LgwCase.Gateway.csproj",
       "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
-      "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\GateWays\\LgwCase.Gateway\\obj\\",
+      "outputPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\GateWays\\LgwCase.Gateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -5838,11 +5838,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
+      "projectUniqueName": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
       "projectName": "LgwCase.Services.Product.Infrastructure",
-      "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
+      "projectPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
-      "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\obj\\",
+      "outputPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5864,8 +5864,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj": {
-              "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj"
+            "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj": {
+              "projectPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj"
             }
           }
         }

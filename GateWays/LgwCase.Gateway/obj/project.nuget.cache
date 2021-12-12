@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bTUI1QzTTwZyZe+CoTGBitemNJql5AuHMi0SxHMwlJP6AXBbIofpZzRqHXsC9/UP7rSH9tiAtmxPoGA7QC3xDw==",
+  "dgSpecHash": "4C/+sc1NKSAjyWqYP6nIaEULRcTJ4DNkijtd7UCd3D/1EBpZxy7bdpcZJSpAdydZ0sTleB6mbaE+sxYqOpJgIA==",
   "success": true,
-  "projectFilePath": "D:\\calismalar\\logiwa\\lgwCase\\GateWays\\LgwCase.Gateway\\LgwCase.Gateway.csproj",
+  "projectFilePath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\GateWays\\LgwCase.Gateway\\LgwCase.Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yildiz\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\yildiz\\.nuget\\packages\\identitymodel\\5.2.0\\identitymodel.5.2.0.nupkg.sha512",

@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj",
+      "projectUniqueName": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj",
       "projectName": "LgwCase.Services.Product.Domain",
-      "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj",
+      "projectPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj",
       "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
-      "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\obj\\",
+      "outputPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,8 +60,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj": {
-              "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj"
+            "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj": {
+              "projectPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj"
             }
           }
         }

@@ -8,3 +8,13 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Prod
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.dll
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.csprojAssemblyReference.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\bin\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.deps.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\bin\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\bin\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.pdb
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.csproj.AssemblyReference.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.AssemblyInfoInputs.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.AssemblyInfo.cs
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.csproj.CoreCompileInputs.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Domain.Core\obj\Debug\netcoreapp3.1\LgwCase.Services.Product.Domain.Core.pdb

@@ -6890,11 +6890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\IdentityServer\\LgwCase.IdentityServer\\LgwCase.IdentityServer.csproj",
+      "projectUniqueName": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\IdentityServer\\LgwCase.IdentityServer\\LgwCase.IdentityServer.csproj",
       "projectName": "LgwCase.IdentityServer",
-      "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\IdentityServer\\LgwCase.IdentityServer\\LgwCase.IdentityServer.csproj",
+      "projectPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\IdentityServer\\LgwCase.IdentityServer\\LgwCase.IdentityServer.csproj",
       "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
-      "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\IdentityServer\\LgwCase.IdentityServer\\obj\\",
+      "outputPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\IdentityServer\\LgwCase.IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6916,8 +6916,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
-              "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj"
+            "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
+              "projectPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj"
             }
           }
         }

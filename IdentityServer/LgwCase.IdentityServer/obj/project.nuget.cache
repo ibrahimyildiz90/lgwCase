@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lnm/cky8DiAUx3GKnHTWAw17UlVOmbo3RZqOlV7MpVVQxtEQ8LYJsSIJ9oD4amPSsjLmB7+e4PzOK7q1Ga2jNQ==",
+  "dgSpecHash": "4zURRV8L48zwZIx7n3qEj7Ei+dWxn3gJq16mnVhsdyW+zEdZvhKxUPY88LiKWOWzHBK/Fu+UZN6DxAjv5uIFzw==",
   "success": true,
-  "projectFilePath": "D:\\calismalar\\logiwa\\lgwCase\\IdentityServer\\LgwCase.IdentityServer\\LgwCase.IdentityServer.csproj",
+  "projectFilePath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\IdentityServer\\LgwCase.IdentityServer\\LgwCase.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yildiz\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\yildiz\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

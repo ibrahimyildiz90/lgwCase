@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "unMfyeYyEe5asiksHPJDa8UBM2YPMB0ary1Cpt3Acls0LJ6DhGJ6+/uKnLhyX8usHbBZ4QKhXLrLSRK3e9s9Sg==",
+  "dgSpecHash": "zTNFGVrWEyFwrGc7WEIRho2TZusCgC1uxinZ7jERVFZcacYlANVj/56z2P6ZnqGpgGzfnh6o3pbSXayj+GHQVQ==",
   "success": true,
-  "projectFilePath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
+  "projectFilePath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yildiz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\yildiz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

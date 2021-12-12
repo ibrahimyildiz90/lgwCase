@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {}
+    "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {}
   },
   "projects": {
-    "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
+    "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj",
+        "projectUniqueName": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj",
         "projectName": "LgwCase.Shared",
-        "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj",
+        "projectPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj",
         "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
-        "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\obj\\",
+        "outputPath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

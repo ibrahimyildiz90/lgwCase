@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7STMgQ/cHAQpnzopwpkP5J60Kq5Pky1Nv0zlxn9Aws7WIsbgZrP7CPPFzPuEAkTlhRF0tdqeZDFs+IV+7zW2Nw==",
+  "dgSpecHash": "rn4K0zdBQxuAjKIMlvf9eKTRAbxsxYoNUpOX9havhouVKPA/7/2e85OSUewsOVcGPLwXDtIBEMUMoeeVs9N17Q==",
   "success": true,
-  "projectFilePath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj",
+  "projectFilePath": "D:\\calismalar\\githupProjelerim\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yildiz\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\yildiz\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
