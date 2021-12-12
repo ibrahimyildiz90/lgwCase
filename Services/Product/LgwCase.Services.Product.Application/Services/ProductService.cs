@@ -48,18 +48,26 @@ namespace LgwCase.Services.Product.Application.Services
                 return Response<List<ProductDto>>.Fail("unexpected error occurred ", 500);
             }
         }
-        public async Task<Response<List<ProductDto>>> GetProductListByQuantity(int min, int max)
+        public async Task<Response<List<ProductDto>>> GetProductListByQuantity(StockQuantityFilterDto model)
         {
             try
             {
-                if (min >= max)
-                    return Response<List<ProductDto>>.Fail("Max stock quantity must be greater than min stock quantity", 500);
+                StockQuantityFilterDtoValidator validator = new StockQuantityFilterDtoValidator();
+                var validatorResult = validator.Validate(model);
+                string errorMessage = String.Empty;
+                if (!validatorResult.IsValid)
+                {
+                    var messageList = validatorResult.Errors.Select(x => x.ErrorMessage).ToList();
+
+                    return Response<List<ProductDto>>.Fail(messageList, 400);
+                }
+
 
                 using (var context = new LgwDbContex(Configuration))
                 {
 
                     var productList = await context.Products.Include(x => x.Category)
-                                .Where(x => x.StockQuantity >= min && x.StockQuantity <= max)
+                                .Where(x => x.StockQuantity >= model.QuantityMin && x.StockQuantity <= model.QuantityMax)
                                 .ToListAsync();
 
                     if (productList.Count == 0)

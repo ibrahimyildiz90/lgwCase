@@ -1,4 +1,4 @@
-﻿using LgwCase.Services.Product.API.Models;
+﻿
 using LgwCase.Services.Product.Application.Dtos;
 using LgwCase.Services.Product.Application.Services;
 using LgwCase.Shared.ControllerBases;
@@ -32,9 +32,9 @@ namespace LgwCase.Services.Product.API.Controllers
 
         [HttpPost]
         [Route("/api/[controller]/[action]")]
-        public async Task<IActionResult> GetProductListByQuantity(StockQuantityFilterModel filter)
+        public async Task<IActionResult> GetProductListByQuantity(StockQuantityFilterDto filter)
         {
-            return CreateActionResultInstance(await _productService.GetProductListByQuantity(filter.QuantityMin, filter.QuantityMax));
+            return CreateActionResultInstance(await _productService.GetProductListByQuantity(filter));
         }
 
         [HttpPost]
