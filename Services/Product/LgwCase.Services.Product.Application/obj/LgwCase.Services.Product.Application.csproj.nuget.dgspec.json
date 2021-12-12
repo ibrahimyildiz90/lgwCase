@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj": {}
+    "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj": {}
   },
   "projects": {
-    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj": {
+    "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj",
+        "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj",
         "projectName": "LgwCase.Services.Product.Application",
-        "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj",
-        "packagesPath": "C:\\Users\\3788882\\.nuget\\packages\\",
-        "outputPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\obj\\",
+        "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\LgwCase.Services.Product.Application.csproj",
+        "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
+        "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\3788882\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yildiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,21 +27,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.jandarma.gov.tr/tfs/IBS_Yazilim_Surec_Yonetimi/_packaging/Juga_Repo@Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj": {
-                "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj"
+              "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj": {
+                "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj"
               },
-              "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj": {
-                "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj"
+              "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj": {
+                "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj"
               },
-              "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
-                "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj"
+              "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
+                "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj"
               }
             }
           }
@@ -75,9 +75,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -86,20 +83,21 @@
         }
       }
     },
-    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj": {
+    "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj",
+        "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj",
         "projectName": "LgwCase.Services.Product.Domain.Core",
-        "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\3788882\\.nuget\\packages\\",
-        "outputPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\obj\\",
+        "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
+        "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\3788882\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yildiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -108,8 +106,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.jandarma.gov.tr/tfs/IBS_Yazilim_Surec_Yonetimi/_packaging/Juga_Repo@Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -145,20 +142,21 @@
         }
       }
     },
-    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj": {
+    "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj",
+        "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj",
         "projectName": "LgwCase.Services.Product.Domain",
-        "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj",
-        "packagesPath": "C:\\Users\\3788882\\.nuget\\packages\\",
-        "outputPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\obj\\",
+        "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj",
+        "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
+        "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\3788882\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yildiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -167,15 +165,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.jandarma.gov.tr/tfs/IBS_Yazilim_Surec_Yonetimi/_packaging/Juga_Repo@Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj": {
-                "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj"
+              "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj": {
+                "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj"
               }
             }
           }
@@ -208,20 +205,21 @@
         }
       }
     },
-    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj": {
+    "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
+        "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
         "projectName": "LgwCase.Services.Product.Infrastructure",
-        "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\3788882\\.nuget\\packages\\",
-        "outputPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\obj\\",
+        "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\LgwCase.Services.Product.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
+        "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\3788882\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yildiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -230,15 +228,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.jandarma.gov.tr/tfs/IBS_Yazilim_Surec_Yonetimi/_packaging/Juga_Repo@Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj": {
-                "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj"
+              "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj": {
+                "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain\\LgwCase.Services.Product.Domain.csproj"
               }
             }
           }
@@ -287,20 +284,21 @@
         }
       }
     },
-    "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
+    "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj",
+        "projectUniqueName": "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj",
         "projectName": "LgwCase.Shared",
-        "projectPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj",
-        "packagesPath": "C:\\Users\\3788882\\.nuget\\packages\\",
-        "outputPath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\obj\\",
+        "projectPath": "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\LgwCase.Shared.csproj",
+        "packagesPath": "C:\\Users\\yildiz\\.nuget\\packages\\",
+        "outputPath": "D:\\calismalar\\logiwa\\lgwCase\\Shared\\LgwCase.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\3788882\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yildiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -309,8 +307,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.jandarma.gov.tr/tfs/IBS_Yazilim_Surec_Yonetimi/_packaging/Juga_Repo@Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
