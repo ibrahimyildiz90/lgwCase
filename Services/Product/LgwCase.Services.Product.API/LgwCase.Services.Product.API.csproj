@@ -18,4 +18,8 @@
     <ProjectReference Include="..\LgwCase.Services.Product.Application\LgwCase.Services.Product.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>

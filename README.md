@@ -3,17 +3,20 @@
 1- Komut satırını açın ve proje dizinine locate olun.
 2- Komut satırına 'Docker-Compose run' yazıp enter tuşuna basın
 3- visual studio da projeyi açın
-4- Set a startup project olaran 'LgwCase.Services.Product.API' seçin
+4- Set a startup project olarak 'LgwCase.Services.Product.API' seçin
 5- Package manager console da default Proje olarak LgwCase.Services.Product.Infrastructure seçin
-6- Package manager console da 2Update-Database' komutunu çalıştırın
+6- Package manager console da 'Update-Database' komutunu çalıştırın
 ```
 
 ## Projenin ile ilgili açıklamalar
 ```
 Proje .net 5.0 da geliştirlimiştir
 Token yönetimi için Identtiy Server 4 kullanılmıştır.
-Gateway olarak Oselot kütüphanesinden faydalanılmıştır.
-Proje mikroservis mimarasi üzerine inşa edilmiştir
+Gateway de Oselot kütüphanesi kullanılmıştır.
+Proje mikroservis mimarasi üzerine inşa edilmiştir.
+Validation için Fluen Validation kütüphanesi kullanılmıştır.
+Identity Server ayağa kalkerken Database Migration işlemi otomatik yapılmıştır.
+Örnek olması açısından, API nin migration'ı  package manager console dan yapılması sağlanmıştır.
 ```
 
 ## Endpoin açıklamaları
@@ -46,7 +49,7 @@ Visiual Studio da solution properties de 3 projede ayağa kalkacak şekilde ayar
 Postman collectionındaki endpointlere çağrıda bulunun(Öncelikle token alan end pointten token alıp, ilgili enppointeki servise token'ı OAuth 2.0 olarak ekleyin).
 ```
 
-###### Validationlar ile ilgili fluent validation kullanılması ve unit teslerinin yazılması zaman sıkıntısı nedeniyle yapılamadı.
+######  Unit teslerinin yazılması zaman sıkıntısı nedeniyle yapılamadı.
 ###### Teşekkürler :)
 
 

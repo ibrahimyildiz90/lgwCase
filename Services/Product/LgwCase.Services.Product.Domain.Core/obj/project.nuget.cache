@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\LgwCase.Services.Product.Domain.Core.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Calismalarim\\githup prj\\logiwa\\lgwCase\\Services\\Product\\LgwCase.Services.Product.Domain.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

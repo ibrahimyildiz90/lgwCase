@@ -11,7 +11,7 @@ namespace LgwCase.Services.Product.Application.Services
     public interface IProductService
     {
         public Task<Response<List<ProductDto>>> SearchProductByKey(string key);
-        public Task<Response<List<ProductDto>>> GetProductListByQuantity(int min, int max);
+        public Task<Response<List<ProductDto>>> GetProductListByQuantity(StockQuantityFilterDto model);
         public Task<Response<NoContent>> AddCategory(AddCategoryDto category);
         public Task<Response<NoContent>> AddProduct(AddProductDto product);
     }

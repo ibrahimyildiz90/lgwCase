@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LgwCase.Services.Product.API.Models
+namespace LgwCase.Services.Product.Application.Dtos
 {
-    public class StockQuantityFilterModel
+    public class StockQuantityFilterDto
     {
         public int QuantityMin { get; set; }
         public int QuantityMax { get; set; }

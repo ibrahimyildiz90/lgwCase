@@ -84,3 +84,46 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net
 E:\Calismalarim\githup prj\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.genruntimeconfig.cache
 E:\Calismalarim\githup prj\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.csprojAssemblyReference.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\appsettings.Development.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\appsettings.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\configuration.development.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\configuration.production.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\LgwCase.Gateway.exe
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\LgwCase.Gateway.deps.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\LgwCase.Gateway.runtimeconfig.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\LgwCase.Gateway.runtimeconfig.dev.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\LgwCase.Gateway.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\ref\LgwCase.Gateway.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\LgwCase.Gateway.pdb
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\FluentValidation.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\IdentityModel.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\Ocelot.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.csproj.AssemblyReference.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.AssemblyInfoInputs.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.AssemblyInfo.cs
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.csproj.CoreCompileInputs.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\staticwebassets\LgwCase.Gateway.StaticWebAssets.Manifest.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\staticwebassets\LgwCase.Gateway.StaticWebAssets.xml
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\scopedcss\bundle\LgwCase.Gateway.styles.css
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.RazorTargetAssemblyInfo.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.csproj.CopyComplete
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\ref\LgwCase.Gateway.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.pdb
+D:\calismalar\githupProjelerim\logiwa\lgwCase\GateWays\LgwCase.Gateway\obj\Debug\net5.0\LgwCase.Gateway.genruntimeconfig.cache

@@ -18,3 +18,23 @@ E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Prod
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Domain.Core.pdb
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.csproj.CopyComplete
 E:\Calismalarim\githup prj\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.genruntimeconfig.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.deps.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.runtimeconfig.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.runtimeconfig.dev.json
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\ref\LgwCase.Services.Product.Infrastructure.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Infrastructure.pdb
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Domain.Core.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Domain.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Domain.pdb
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\bin\Debug\net5.0\LgwCase.Services.Product.Domain.Core.pdb
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.csproj.AssemblyReference.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.AssemblyInfoInputs.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.AssemblyInfo.cs
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.csproj.CoreCompileInputs.cache
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.csproj.CopyComplete
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\ref\LgwCase.Services.Product.Infrastructure.dll
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.pdb
+D:\calismalar\githupProjelerim\logiwa\lgwCase\Services\Product\LgwCase.Services.Product.Infrastructure\obj\Debug\net5.0\LgwCase.Services.Product.Infrastructure.genruntimeconfig.cache
